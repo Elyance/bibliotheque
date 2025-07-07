@@ -4,11 +4,11 @@
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/entity/personne/TypeAdherant.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/service/personne/PersonneService.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/controller/livre/PretController.java
-/home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/controller/personne/AdminController.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/entity/livre/TypePret.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/entity/livre/Exemplaire.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/personne/TypeAdherantRepo.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/livre/LivreRepo.java
+/home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/entity/fonctionnalite/Abonnement.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/livre/PretRepo.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/entity/Admin.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/entity/personne/Admin.java
@@ -20,8 +20,11 @@
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/service/livre/CategorieService.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/controller/livre/ExemplaireController.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/personne/AdminRepo.java
+/home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/fonctionnalite/AbonnementRepo.java
+/home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/service/fonctionnalite/AbonnementService.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/controller/HelloWorld.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/service/personne/AdherantService.java
+/home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/controller/personne/LoginController.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/personne/PersonneRepo.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/service/personne/AdminService.java
 /home/elyance/Documents/S4/Servlet/bibliotheque/src/main/java/biblio/dev/repository/livre/TypePretRepo.java

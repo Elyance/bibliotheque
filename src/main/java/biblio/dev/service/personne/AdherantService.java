@@ -30,4 +30,8 @@ public class AdherantService {
     public void deleteById(Integer id) {
         adherantRepo.deleteById(id);
     }
+
+    public Adherant login(String mail, String password) {
+        return adherantRepo.findByPersonne_MailAndPersonne_Password(mail, password);
+    }
 }

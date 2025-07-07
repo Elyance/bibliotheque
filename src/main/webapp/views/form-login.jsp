@@ -11,7 +11,7 @@
         <div class="col-md-4">
             <div class="card shadow">
                 <div class="card-header text-center">
-                    <h3>Connexion Administrateur</h3>
+                    <h3>Connecter vous </h3>
                 </div>
                 <div class="card-body">
                     <% String error = request.getParameter("error"); %>
@@ -20,7 +20,7 @@
                             Identifiants invalides. Veuillez réessayer.
                         </div>
                     <% } %>
-                    <form action="login-admin-check" method="post">
+                    <form action="login-check" method="post">
                         <div class="mb-3">
                             <label for="mail" class="form-label">Email</label>
                             <input type="email" class="form-control" id="mail" name="mail" required>

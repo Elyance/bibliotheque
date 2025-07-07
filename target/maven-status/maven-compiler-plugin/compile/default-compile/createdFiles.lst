@@ -1,6 +1,9 @@
 biblio/dev/entity/livre/TypePret.class
 biblio/dev/controller/livre/ExemplaireController.class
+biblio/dev/controller/personne/LoginController.class
 biblio/dev/repository/personne/AdminRepo.class
+biblio/dev/entity/fonctionnalite/Abonnement.class
+biblio/dev/repository/fonctionnalite/AbonnementRepo.class
 biblio/dev/repository/livre/PretRepo.class
 biblio/dev/entity/personne/Adherant.class
 biblio/dev/entity/livre/Pret.class
@@ -20,9 +23,8 @@ biblio/dev/entity/livre/Exemplaire.class
 biblio/dev/service/livre/ExemplaireService.class
 biblio/dev/controller/HelloWorld.class
 biblio/dev/service/personne/AdherantService.class
-biblio/dev/controller/personne/AdminController.class
 biblio/dev/repository/personne/AdherantRepo.class
-biblio/dev/controller/livre/PretController.class
+biblio/dev/service/fonctionnalite/AbonnementService.class
 biblio/dev/service/livre/CategorieService.class
 biblio/dev/service/personne/PersonneService.class
 biblio/dev/repository/livre/TypePretRepo.class
